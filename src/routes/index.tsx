@@ -54,7 +54,7 @@ function Home() {
           className="w-full max-w-sm mb-8"
         />
         <a
-          href="https://eventbrite.com"
+          href="https://www.eventbrite.com/e/the-bush-comedy-show-tickets-1982809485547?aff=oddtdtcreator"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#6B8E6B] hover:bg-[#4A6B4A] text-[#F5F5F0] py-3 px-6 rounded-full text-center transition-colors w-full max-w-xs"
